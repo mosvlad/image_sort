@@ -2,6 +2,9 @@
 
 A Python application that sorts pixels in an image based on brightness, rearranging them from darkest to brightest starting from the top-left corner to the bottom-right. The program provides a side-by-side comparison of the original and sorted images.
 
+![image](https://github.com/user-attachments/assets/333fc3b8-e2f0-49d0-b1d1-c5ac618e1bbe)
+
+
 ## Features
 
 - Pixel sorting based on brightness values
